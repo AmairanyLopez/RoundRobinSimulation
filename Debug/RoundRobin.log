@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(32): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(63): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(113): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(114): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(139): warning C4018: '<': signed/unsigned mismatch
+c:\users\amairany\source\repos\roundrobin\roundrobin\source.cpp(48): warning C4101: 'words': unreferenced local variable
+  RoundRobin.vcxproj -> C:\Users\Amairany\source\repos\RoundRobin\Debug\RoundRobin.exe
